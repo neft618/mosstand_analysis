@@ -1,0 +1,32 @@
+{
+  "file": "04.06.2026_13_02_12_79852126680_m49_d138747_5.1780567334.mp3",
+  "language": "ru",
+  "language_probability": 1,
+  "duration_seconds": 70.4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "speaker": null,
+      "text": "Леночка, я тебе сейчас перезвоню."
+    },
+    {
+      "start": 2.56,
+      "end": 3.62,
+      "speaker": null,
+      "text": "Пожалуйста, давай."
+    },
+    {
+      "start": 4.12,
+      "end": 5.14,
+      "speaker": null,
+      "text": "Спасибо, да, я ей перезвоню."
+    },
+    {
+      "start": 5.46,
+      "end": 5.74,
+      "speaker": null,
+      "text": "Давай."
+    }
+  ]
+}

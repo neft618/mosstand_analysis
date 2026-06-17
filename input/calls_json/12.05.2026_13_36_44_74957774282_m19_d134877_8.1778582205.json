@@ -1,0 +1,86 @@
+{
+  "file": "12.05.2026_13_36_44_74957774282_m19_d134877_8.1778582205.mp3",
+  "language": "ru",
+  "language_probability": 1,
+  "duration_seconds": 146.3,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 8.65,
+      "speaker": null,
+      "text": "Здравствуйте, вы позвонили в Объединённую приборостроительную корпорацию. Наберите внутренний номер абонента в тональном режиме или дождитесь ответа секретаря."
+    },
+    {
+      "start": 9.1,
+      "end": 17.6,
+      "speaker": null,
+      "text": "Hello, you have reached the United Instrument Manufacturing Corporation. Please dial an extension number or wait for the secretary to answer."
+    },
+    {
+      "start": 26.14,
+      "end": 27.2,
+      "speaker": null,
+      "text": "О, пока, добрый день!"
+    },
+    {
+      "start": 28.2,
+      "end": 32.48,
+      "speaker": null,
+      "text": "Добрый день, я зовут Влад, компания МОС-центр, поскольку в студии могу пообщаться."
+    },
+    {
+      "start": 34.68,
+      "end": 35.34,
+      "speaker": null,
+      "text": "По поводу чего?"
+    },
+    {
+      "start": 36.64,
+      "end": 38.48,
+      "speaker": null,
+      "text": "Так, по поводу заказа по ПАПа."
+    },
+    {
+      "start": 38.48,
+      "end": 43.97,
+      "speaker": null,
+      "text": "Мы рассмотрим мою официальную песню на банке организации за подпись директора."
+    },
+    {
+      "start": 44.49,
+      "end": 53.09,
+      "speaker": null,
+      "text": "Так, ещё раз можете повторить, как я смогу плачать с Юлей по поводу её заказа?"
+    },
+    {
+      "start": 54.77,
+      "end": 55.57,
+      "speaker": null,
+      "text": "С Юлей?"
+    },
+    {
+      "start": 56.2,
+      "end": 57.2,
+      "speaker": null,
+      "text": "Да, да."
+    },
+    {
+      "start": 58.06,
+      "end": 59.84,
+      "speaker": null,
+      "text": "Вы пропадаете, какая у неё фамилия?"
+    },
+    {
+      "start": 61.07,
+      "end": 61.79,
+      "speaker": null,
+      "text": "Логвина."
+    },
+    {
+      "start": 62.91,
+      "end": 63.35,
+      "speaker": null,
+      "text": "Ага."
+    }
+  ]
+}
